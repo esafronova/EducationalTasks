@@ -4,5 +4,5 @@ The course ['Variational Methods in Image Processing'](https://imaging.cs.msu.ru
 
 It contains two tasks:
 
-- Deconvolution
-- Active contours
+- [Deconvolution](task1)
+- [Active contours](task2)
