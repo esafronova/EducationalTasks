@@ -22,7 +22,7 @@ The program should support command-line execution with a strictly defined comman
 %programname% (input_image) (kernel) (output_image) (noise_level)
 
 Arguments:
--input_image: File name - input blurred and noisy image.
--kernel: File name - blur kernel image.
--output_image: File name - output image.
--noise_level: Noise level on the input image, a real number representing the root mean square deviation (standard deviation) for pixel values in the range [0, 255].
+- input_image: File name - input blurred and noisy image.
+- kernel: File name - blur kernel image.
+- output_image: File name - output image.
+- noise_level: Noise level on the input image, a real number representing the root mean square deviation (standard deviation) for pixel values in the range [0, 255].
