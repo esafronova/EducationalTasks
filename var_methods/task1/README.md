@@ -1,3 +1,5 @@
+# Deconvolution
+
 ## Mandatory Part of the Task:
 You are required to write a program that implements the method of image deconvolution through the minimization of a regularization functional. The choice of the residual norm and the stabilizer is at the discretion of the student. The recommended stabilizer is the total variation functional or the total generalized variation functional. The recommended number of iterations is 100.
 
