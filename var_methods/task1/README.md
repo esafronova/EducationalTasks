@@ -21,8 +21,7 @@ During testing, images with Gaussian noise with a standard deviation in the rang
 The program should support command-line execution with a strictly defined command format:
 %programname% (input_image) (kernel) (output_image) (noise_level)
 
-## Arguments:
-
+Arguments:
 -input_image: File name - input blurred and noisy image.
 -kernel: File name - blur kernel image.
 -output_image: File name - output image.
