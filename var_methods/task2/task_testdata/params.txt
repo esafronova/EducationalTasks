@@ -1,0 +1,5 @@
+%programname% astranaut.png astranaut_init_snake.txt astranaut_result.png 0.15 10 10 0.5 1
+%programname% coffee.png coffee_init_snake.txt coffee_result.png 0.15 25 100 1.5 1
+%programname% coins.png coins_init_snake.txt coins_result.png 0.1 10 2 -0.1 0.05
+%programname% microarray.png microarray_init_snake.txt microarray_result.png 0.01 10 5 -0.1 0.1
+%programname% nucleus.png nucleus_init_snake.txt nucleus_result.png 0.01 10 100 -0.2 1
