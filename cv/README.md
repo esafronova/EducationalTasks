@@ -2,7 +2,7 @@
 
 The course 'Computer Vision' is conducted by the [Graphics and Media Lab](https://graphics.cs.msu.ru).
 
-It contains 5 tasks:
+This directory contains [9 Jupyter notebooks](jupyter) with various tasks and code for 5 main cource tasks:
 
 ## 1. Combining Image Channels
 
