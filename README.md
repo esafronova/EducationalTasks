@@ -5,4 +5,3 @@ In this repository, I would like to share my practical tasks from the master's p
 - [Computer Vision](cv)
 - [Variational Methods in Image Processing](var_methods)
 - [Machine Learning](ml)
-- Deep Learning
