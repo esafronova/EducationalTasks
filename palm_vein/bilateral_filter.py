@@ -1,12 +1,13 @@
+import os
+from os import listdir as ld
+from os.path import join as jp
+
 import cv2
 import numpy as np
 
 from fire import Fire
 from skimage import io
 from typing import Optional
-
-from os import listdir as ld
-from os.path import join as jp
 
 
 def bilateral(
@@ -26,6 +27,7 @@ def bilateral(
     :param sigma_space: Filter sigma in the coordinate space
     :param num_img_process: number of images to process
     """
+    os.makedirs(output_path, exist_ok=True)
     file_names = ld(input_path)
 
     if num_img_process is None or num_img_process > len(file_names):
